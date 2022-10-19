@@ -15,8 +15,8 @@ html {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
-.grid{
-    max-width: 1200px;
+.grid
+{
     max-width: 100%;
     margin: 0 auto;
 }
