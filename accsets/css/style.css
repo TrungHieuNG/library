@@ -100,3 +100,26 @@
     color: var(--white-color);
 }
 
+.contener-box{
+    display: flex ;
+    flex-wrap: wrap;
+
+}
+.left-item{
+    flex: 30%;
+    padding: 10px;
+
+}
+.right-item{
+    flex:70%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.card .card-body a {
+    background-color: var(--yellow-color);
+    color: var(--black-color);
+}
