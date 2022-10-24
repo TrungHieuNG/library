@@ -114,10 +114,12 @@
     flex:70%;
     padding: 10px;
     display: flex;
-    justify-content: space-evenly;
     flex-direction: row;
     flex-wrap: wrap;
 
+}
+.card {
+    margin: 1rem;
 }
 .card .card-body a {
     background-color: var(--yellow-color);
